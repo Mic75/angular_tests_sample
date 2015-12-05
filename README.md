@@ -1,6 +1,3 @@
 # angular_tests_sample
-A basic setup for angular unit tests using [1][karma] with [2][jasmine] and [3][phantomjs]
+A basic setup for angular unit tests using [karma](http://karma-runner.github.io/0.13/index.html) with [jasmine](http://jasmine.github.io/) and [phantomjs](http://phantomjs.org/)
 
-[1]: http://karma-runner.github.io/0.13/index.html
-[2]: http://jasmine.github.io/
-[3]: http://phantomjs.org/
