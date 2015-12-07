@@ -6,7 +6,7 @@ describe("Bigger factory", function(){
     expect(bigger(6,5)).toEqual(true);
   }));
 
-  it("returns true when first params is lower than the second", inject(function(bigger){
+  it("returns false when first params is lower than the second", inject(function(bigger){
     expect(bigger(5,6)).toEqual(false);
   }));
 
