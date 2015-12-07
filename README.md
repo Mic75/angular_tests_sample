@@ -16,19 +16,23 @@ NVM not being compatible with Windows. Download the installer from Node.js websi
 ## Pre-installation
 ### Linux & OS X
 Navigate at the root of the repository and run:
+
    nvm install
 The command will install the good version of node thanks to the .nvmrc file.
 
 ### Windows
 Nothing to do. Just ensure that the version of you node.js installation matches the one from the .nvmrc file of this repository.
 To check your node version:
+
    node -v
 
 ## Installation
 Under the root folder of the repository, run:
+
    npm install
 
 ## Run the tests
 If everythig went good so far, congrats, you're done!
 Just run the following command to see if the tests are properly running:
+
    npm run test
