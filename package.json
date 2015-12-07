@@ -9,6 +9,7 @@
     "phantomjs": "^1.9.19"
   },
   "scripts": {
-    "karma": "karma start karma.conf.js --reporters dots"
+    "karma": "karma start karma.conf.js --reporters dots",
+    "install": "bower install"
   }
 }
