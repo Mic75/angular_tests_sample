@@ -35,4 +35,4 @@ Under the root folder of the repository, run:
 If everythig went good so far, congrats, you're done!
 Just run the following command to see if the tests are properly running:
 
-    npm run test
+    npm run karma
